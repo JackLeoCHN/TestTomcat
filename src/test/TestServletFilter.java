@@ -13,7 +13,7 @@ import java.io.PrintWriter;
 @WebServlet(
         urlPatterns = {"/Test.do"},
         loadOnStartup = 0,
-        name ="testServletFilter"
+        name ="testServletFilter1"
 )
 public class TestServletFilter extends HttpServlet {
 
