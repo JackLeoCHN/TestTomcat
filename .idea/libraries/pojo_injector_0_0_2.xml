@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="pojo-injector-0.0.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../Tools/javajarlib/pojo-injector-0.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../Tools/javajarlib/pojo-injector-0.0.2.jar!/" />
+    </SOURCES>
+  </library>
+</component>
